@@ -27,5 +27,19 @@
 
 -------------------
 
-##Vel consequat velit  
-> Phasellus interdum nulla velit, sit amet pellentesque libero elementum quis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Duis egestas erat eget aliquam interdum. 
+##Vel consequat velit
+  
+ Phasellus interdum nulla velit, sit amet pellentesque libero elementum quis. 
+
+
+------------------
+
+###To Do List
+
+[ ] Class aptent  
+[ ] taciti sociosqu  
+[ ] ad litora torquent  
+[ ] per conubia nostra  
+[ ] per inceptos himenaeos  
+[ ] Duis egestas erat eget  
+[ ] aliquam interdum  
